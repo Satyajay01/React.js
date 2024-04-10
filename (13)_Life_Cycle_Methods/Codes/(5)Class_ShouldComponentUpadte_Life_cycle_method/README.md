@@ -1,0 +1,1 @@
+Class ShouldComponentUpadte Life cycle method
