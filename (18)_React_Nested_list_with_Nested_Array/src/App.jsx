@@ -50,13 +50,15 @@ const App = () => {
       <table border={1}>
 
           <tr>
+            <td>S.N</td>
             <td>Name</td>
             <td>Email</td>
             <td>Address</td>
           </tr>
     
-        {users.map((item) => (
-          <tr>
+        {users.map((item, i) => (
+          <tr key={i}>
+            <td>{i+1}</td>
             <td>{item.Name}</td>
             <td>{item.Email}</td>
             <td>
