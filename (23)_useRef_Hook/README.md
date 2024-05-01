@@ -1,8 +1,4 @@
-# React + Vite
+# useRef
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The useRef hook is a very important hook in React used in functional components. It allows us to reference DOM or any other element and manipulate it outside of React's lifecycle.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

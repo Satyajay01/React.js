@@ -21,3 +21,5 @@ npx tailwindcss init -p
 
 (Step 4) install Tailwind CSS extension = (Name: IntelliSense for CSS class names in HTML
 Link = https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
+

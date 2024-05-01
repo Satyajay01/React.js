@@ -6,5 +6,3 @@ controlled component it is handled by state
 Uncontrolled component is handled by direct useRef hook or DOM
 
     
-
-

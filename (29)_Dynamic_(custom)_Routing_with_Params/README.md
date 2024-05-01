@@ -6,7 +6,3 @@ Used this (1) API calling (2)making E-Commerce cards etc.
 
 (1)step install :- npm i react-router-dom
 
-
-
-
-

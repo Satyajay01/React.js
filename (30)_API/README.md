@@ -5,5 +5,3 @@
 (2) API is a means for computer programs to communicate with each other, facilitating the sharing of data and services.
 
 
-
-
